@@ -1,0 +1,321 @@
+﻿id,product_name,price(vnd),original_price,discount,discount_rate(%),review_count,rating_average,quantity_sold,brand_name,origin,subcategory_name,updated_at,category_name
+4048043,Điện Thoại Bàn Panasonic KX-TS500,334000,369000,35000,9,25,4.5,315.0,Panasonic,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+4048581,Điện Thoại Bàn Panasonic KX-TSC11,714000,759000,45000,6,9,4.5,66.0,Panasonic,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+11251711,Điện thoại bàn không dây Panasonic KX-TGD312 - Hàng Chính Hãng,2190000,2190000,0,0,2,5.0,11.0,Panasonic,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+11251770,Điện thoại bàn không dây Panasonic KX-TGD310 - Hàng Chính Hãng,1430000,1430000,0,0,0,0.0,4.0,Panasonic,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+11251951,Điện thoại bàn không dây Panasonic KX-TGB110-Hàng Chính Hãng,890000,890000,0,0,1,5.0,17.0,Panasonic,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+21317020,Điện thoại bàn không dây Panasonic KX-TGF310 - Hàng Chính Hãng,2590000,2590000,0,0,0,0.0,7.0,Panasonic,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+23142193,Điện thoại bàn không dây Panasonic KX-TGC313 - Hàng Chính Hãng,2350000,2350000,0,0,3,4.7,6.0,Panasonic,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+29440849,điện thoại  IP622C - hàng chính hãng,1650000,1650000,0,0,0,0.0,0.0,,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+53380152,Điện Thoại IP Phone Fanvil X1S - Hàng Chính Hãng,950000,950000,0,0,0,0.0,0.0,,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+67982880,LapTop Lenovo V14 IIL - 82C400W3VN | Intel Core i5 _ 1035G1 | 4GB | 256GB SSD PCIe | VGA INTEL  | 14 inch HD | FreeDos | Hàng Chính Hãng,10120000,10150000,30000,0,3,4.7,5.0,Lenovo,Trung Quốc,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+94453667,Điện thoại VoIP Yealink SIP-T30,1050000,1050000,0,0,0,0.0,0.0,,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+102620086,Điện thoại VoIP Yealink SIP-T30 - Hàng Chính Hãng,1200000,1200000,0,0,0,0.0,0.0,,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+108924121,Laptop Dell Latitude 3520 70251603 (Core i3-1115G4/ 4 GB/ 256GB SSD/ 15.6HD/ Fedora) - Hàng Chính Hãng,9420000,9450000,30000,0,3,5.0,5.0,Dell,Trung Quốc,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+117347869,ĐIỆN THOẠI HỘI NGHỊ YEALINK CP960 -HÀNG CHÍNH HÃNG,15230000,15230000,0,0,0,0.0,0.0,,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+125182567,Máy đọc sách All New Kindle Paperwhite 5 (11th Gen) - Hàng nhập khẩu,3990000,3990000,0,0,409,5.0,1582.0,Kindle,Mỹ,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+136979185,Laptop HP 14s-dq2545TU 46M23PA (Core i5-1135G7/ 8GB/ 256GB/ 14HD/ Win10) - Hàng Chính Hãng,15960000,15990000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+139632023,"Máy đọc sách Kobo Libra (Libra Colour, Libra 2) - hàng nhập khẩu",8600000,8600000,0,0,56,5.0,209.0,Kobo,Canada,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+155974507,Laptop HP 14s-fq1080AU 4K0Z7PA (AMD R3-5300U/ 4GB DDR4/ 256GB SSD/ 14 HD/ Win 11) - Hàng Chính Hãng,14220000,14250000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+156222386,Điện thoại Panasonic KX-TS520MX -Hàng chính hãng,474000,489000,15000,3,0,0.0,1.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+158583026,Laptop MSI Modern 14 B11MOU 851VN Gray (i3 1115G4/ 8GB/ 256GB SSD/ W10) Hàng Chính Hãng,14460000,14490000,30000,0,0,0.0,1.0,MSI ,Trung Quốc,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+158583221,Laptop MSI Modern 14 B11SBU 668VN Carbon Gray (i5 1155G7/ 8GB/ 512GB SSD/ MX450 2GB/ W10) Hàng NK,21960000,21990000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+163914808,Điện thoại bàn Panasonic  KX-TS500MX-hàng chính hãng,320000,320000,0,0,139,5.0,985.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+164213695,Điện thoại bàn Panasonic KX-TGB110 hàng chính hãng,850000,850000,0,0,18,5.0,73.0,Panasonic,Trung Quốc,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+164318521,Điện thoại bàn Panasonic KX-TGF320 hàng chính hãng,2500000,2500000,0,0,6,5.0,24.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+164318603,Điện thoại bàn Panasonic KX-TGF310 hàng chính hãng,2350000,2350000,0,0,6,5.0,37.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+170165658,Điện thoại bàn Ktel 303 hàng chính hãng,450000,450000,0,0,5,5.0,24.0,KTEL,Trung Quốc,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+170165701,Điện thoại bàn Ktel 645 hàng chính hãng,450000,450000,0,0,12,5.0,68.0,KTEL,Trung Quốc,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+170727266,Điện thoại bàn Panasonic KX-TS560 hàng chính hãng,688000,688000,0,0,14,5.0,53.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+170727305,Điện thoại bàn Panasonic KX-TS580 hàng chính hãng,1044000,1059000,15000,1,0,0.0,1.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+172537996,"(Hàng chính hãng) Điện thoại bàn hữu tuyến H2P, hiệu Alcatel - Lucent",2220000,2220000,0,0,0,0.0,0.0,,,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+173789184,Điện thoại bàn treo tường TC990,250000,250000,0,0,7,5.0,51.0,Uniden,Trung Quốc,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+179547641,Máy đọc sách Kindle Paperwhite 5 (8GB) - Hàng chính hãng,3990000,3990000,0,0,0,0.0,1.0,Kindle,Trung Quốc,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+181452535,"Điện thoại Itel Magic X Pro 4G ,Kết nối WIFI,Chia sẻ WIFI cho máy khác - Hàng chính hãng",619000,790000,171000,22,31,4.2,154.0,Itel,Trung Quốc,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+181927718,Điện thoại bàn Panasonic KX-TGC313 hàng chính hãng,2150000,2150000,0,0,3,5.0,15.0,Panasonic,Việt Nam,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+181927736,Điện thoại bàn Panasonix KX-TGD312 hàng chính hãng,1850000,1850000,0,0,6,5.0,28.0,Panasonic,Việt Nam,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+181927774,Điện thoại bàn Panasonic KX-TGD310 hàng chính hãng,1190000,1190000,0,0,8,4.8,30.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+181927801,Điện thoại bàn Panasonic KX-TGC212 hàng chính hãng,1650000,1650000,0,0,13,4.8,50.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+181928189,Điện thoại bàn Panasonic KX-TGC312 hàng chính hãng,1550000,1550000,0,0,6,5.0,33.0,Panasonic,Việt Nam,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+181928208,Điện thoại bàn Panasonic KX-TGC310 hàng chính hãng,990000,1050000,60000,6,7,5.0,55.0,Panasonic,Việt Nam,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+181977398,Điện thoại bàn Panasonic KX-TS880 hàng chính hãng,1150000,1150000,0,0,11,4.8,49.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+183743642,"Lenovo ThinkPad L460 (Intel Core i5 6300 , RAM 8.0GB, 1x180GB SSD SATA III, Intel HD 520, MÀN HÌNH 14 INCH Tặng cặp + chuột không dây + bàn di chuột - HÀNG CHÍNH HÃNG",5760000,5790000,30000,1,8,4.6,26.0,Lenovo,China,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+184059211,Apple iPhone 13,11990000,20000000,8010000,40,2056,5.0,6832.0,Apple,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+186272654,Lenovo Thinkpad X1 Carbon Thế Hệ 5 Core i5 – 7300U / Ram 8G / SSD 256Gb / 14 “FHD / SIÊU MỎNG - SIÊU NHANH - HÀNG CHÍNH HÃNG,6470000,6500000,30000,0,0,0.0,6.0,Lenovo,Nhật Bản,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+189572199,"Laptop Asus VivoBook X515JA Core i3-1005G1/8GB/256GB/15.6""HD/Win 10/Màu Xám Mới 100%-Hàng Nhập Khẩu",10320000,10350000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+189572223,"Laptop Asus Vivobook F415E i3-1115G4/8GB/128SSD/UHD Graphics/14""FHD/Win10/Xám Mới 100%- Hàng Nhập Khẩu",10720000,10750000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+192729512,"Laptop Dell Vostro 5620 i5 1240P/16GB/512GB/16""F/OfficeHS/Win11/(70282719)/Xám - Hàng chính hãng",19520000,19550000,30000,0,0,0.0,1.0,Dell,Trung Quốc,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+193366048,Điện thoại OnePlus 10T 5G - Hàng Chính Hãng,15990000,15990000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+196197701,Điện thoại Samsung Galaxy Z Fold4 5G (12GB/256GB) - Hàng chính hãng,40790000,40990000,200000,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+197214029,Apple iPhone 14,12990000,17990000,5000000,28,166,5.0,702.0,Apple,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+198868573,Điện thoại IP Grandstream GRP 2601P hàng chính hãng,1050000,1050000,0,0,0,0.0,2.0,Grandstream,Trung Quốc,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+198868735,Điện thoại IP Grandstream GRP 2601 hàng chính hãng,880000,880000,0,0,0,0.0,2.0,Grandstream,Trung Quốc,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+201067649,Combo máy đọc sách Kindle Paperwhite 5 (11th gen) tặng kèm bao da ( Cover ) - Hàng nhập khẩu,3590000,3590000,0,0,116,5.0,576.0,Kindle,Mỹ,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+204237269,Điện Thoại Bàn Panasonic KX-TSC11 - Hàng Chính Hãng - Trắng,620000,620000,0,0,50,5.0,292.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+205300671,Laptop Dell Vostro 5620 70296963 (Intel Core i5 _ 1240P | 8GB | 512GB SSD | MX570 with 2GB | 16.0 inch Full HD+ | Win 11 _ Office 2021 | Finger | LED KEY) - Hàng chính hãng,19920000,19950000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+205303070,Laptop Dell Inspiron 5620 | N5620 - I5P165W11SLU (Intel Core i5 _ 1240P | 16GB | 512GB SSD | Intel Iris Xe  | 16.0 inch Full HD+ | Win 11 _ Office 2021 | Finger | LED KEY ) - Hàng chính hãng,18720000,18750000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+205305968,Laptop Lenovo ThinkPad E14 Gen 7 (21SX002QVA) | Intel Core Ultra 5 225U | RAM 16GB | 512GB SSD | Intel Graphics | 14 inch WUXGA | Fingerprint | WF+BL | 3 cell | NoOS | 2Yrs,21920000,21950000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+206307542,Laptop HP Pavilion 15-eg2058TU (6K788PA) (i5-1240P | 8GB | 256GB | Intel Iris Xe Graphics | 15.6' FHD | Win 11) Hàng chính hãng,14520000,14550000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+206840788,Laptop Lenovo ThinkPad E15 Gen 4 21E600CMVA (Đen) - Tặng  chuột Zadez M-331 - Hàng chính hãng,18420000,18450000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+217276360,"Điện thoại Mobell F209 4G ,Loa to, Phím lớn - Hàng chính hãng",629000,769000,140000,18,3,4.7,7.0,Mobell,Việt Nam / Trung Quốc,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+222707075,Máy tính xách tay Laptop Dell Latitude 5470  (Intel Core i5 -6200 | 14 Inch HD | RAM 8GB | 256GB SSD | Intel UHD Graphics | Fedora Os) - Hàng chính hãng,4520000,4550000,30000,1,27,4.3,73.0,Dell,Nhật Bản,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+226552005,Điện thoại bàn Panasonic KX-TSC11 hàng chính hãng,620000,620000,0,0,23,5.0,161.0,Panasonic,Malaysia,dien-thoai-ban,2025-10-21 16:35:09,Điện thoại
+230155305,Điện thoại Xiaomi Redmi Note 10 JE 5G 4GB/64GB - Màn 90HZ - Chống Nước IP68 - Hàng Nhập Khẩu - Bản quốc tế,2429000,3990000,1561000,39,62,4.7,167.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+230157205,Điện thoại Xiaomi Redmi Note 10T 5G 4GB/64GB - Màn 90HZ - Chống Nước IP68 - Hàng Nhập Khẩu - Bản quốc tế,2599000,4190000,1591000,38,30,5.0,78.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+247667322,"Laptop Lenovo V14 Gen 4 (83A000FNVN) | Intel Core I5-13420H | 16GB | 512GB | 14.0"" FHD | NO OS | Grey",12920000,12950000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+248830867,Màn hình LG IPS 32MP60G-B 31.5'' Full HD AMD FreeSync - Hàng chính hãng,5760000,5790000,30000,1,0,0.0,0.0,,,laptop-gaming,2025-10-21 16:35:09,Laptop
+249782771,Máy tính bảng Xelex Gama Tab X8 EDU (Hàng chính hãng),2890000,2890000,0,0,0,0.0,0.0,,,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+252586291,Máy đọc sách All New Kindle Paperwhite 5 (11th Gen) - Hàng chính hãng,3590000,3590000,0,0,106,5.0,139.0,Kindle,Mỹ,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+252587213,Màn hình K-Vision 27 inch cong IPS tràn viền 75Hz mới - HÀNG CHÍNH HÃNG,2420000,2450000,30000,1,0,0.0,0.0,,,laptop-gaming,2025-10-21 16:35:09,Laptop
+252587227,Màn hình K-vison 24 inch độ phân giải FUll HD 1920x1080 - Chống Lóa - Tần số 75Hz - Hàng Chính Hãng,1853000,1883000,30000,2,0,0.0,1.0,K vision,Nhật Bản / Trung Quốc,laptop-gaming,2025-10-21 16:35:09,Laptop
+253096916,LAPTOP Thinkpad X1 Carbon Gen 6 | I7 – 8550U | Ram 16GB | SSD 512GB | 14″ Full HD | Card On,9560000,9590000,30000,0,1,5.0,5.0,Lenovo,Nhật Bản / Trung Quốc,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+263675862,Điện thoại OPPO A77 4GB+4GB/128GB - Sạc siêu nhanh 33W - Hàng nhập khẩu nhật - Bản quốc tế,4990000,4990000,0,0,4,4.8,9.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+263798932,Máy đọc sách Boox Page - Hàng Chính Hãng,5490000,7990000,2500000,31,11,5.0,55.0,Onyx Boox,Trung Quốc,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+270794184,"Máy đọc sách Kobo Clara (Clara Colour, Clara BW, Clara 2e, Clara HD) - 6inch, 16gb - Hàng Chính Hãng",5500000,5500000,0,0,20,5.0,47.0,Kobo,Canada,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+270837635,Laptop Lenovo X1 Cacbon Core i7 / Core i5 / 16Gb / SSD nvme 256Gb Hàng chính hãng,4660000,4690000,30000,1,8,3.6,31.0,Lenovo,Nhật Bản,laptop-gaming,2025-10-21 16:35:09,Laptop
+270975124,Điện Thoại Oppo A58 6GB/128GB - Hàng Chính Hãng,3890000,4990000,1100000,22,147,5.0,28330.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+271234577,Điện Thoại Nokia 105 4G Pro - Hàng Chính Hãng,829000,849000,20000,2,2,5.0,14.0,Nokia,China,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+271264846,Lenovo Thinkpad X250 Core i5-5200U / RAM 8GB / SSD 256GB / Màn 12.5 inch0 HD (Phím JP) Hàng Chính Hãng,2960000,2990000,30000,1,3,4.3,14.0,Lenovo,Nhật Bản,laptop-2-trong-1,2025-10-21 16:35:09,Laptop
+271329051,"Máy tính bảng Kindle Fire MAX 11, màn hình 11 inch, RAM 4GB, CPU Octa-core 2.2Ghz, bộ nhớ 64/128GB - Hàng chính hãng",4900000,4900000,0,0,2,5.0,4.0,Kindle,Mỹ,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+271362153,"Combo Máy đọc sách All New Kindle Paperwhite 5 (11th Gen) và Bao da FOR KIDS (Bản KIDS, Không Quảng Cáo) - Hàng chính hãng",3990000,3990000,0,0,2,5.0,16.0,Kindle,Mỹ,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+271467653,Điện thoại Realme C51 (4GB/128GB) - Hàng chính hãng,3990000,3990000,0,0,1,5.0,3.0,Realme,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+271530789,Combo Máy đọc sách All New Kindle Paperwhite 6 - Hàng chính hãng,4790000,4790000,0,0,3,4.7,15.0,Kindle,Mỹ,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+271949876,Laptop Lenovo V15 G4 IRU (83A100URVN) | Intel Core i5-13420H | 8GB | 512GB SSD | Intel UHD Graphics | 15.6 Inch FHD | No Os | Grey,12720000,12750000,30000,0,0,0.0,1.0,Lenovo,Trung Quốc,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+271954384,"Điện thoại OPPO A58 6GB/128GB , Sạc nhanh 33W - Hàng Chính Hãng",4990000,4990000,0,0,2,5.0,3.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+272273680,Điện thoại Samsung Galaxy A05s (4GB/128GB) - Hàng chính hãng,3990000,3990000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+272850971,"Điện thoại Libero 5G III - 4/64GB Dimensity 700 ,Màn OLED ,Kháng nước IP57 - Hàng nhập khẩu nhật",2990000,2990000,0,0,4,5.0,11.0,Tecno,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+273002756,Laptop Dell Latitude 3590  Core i5 7200U- Ram 8GB- 128GB SSD Ổ cứng -Màn hình 15-6 inch BH 6 thang - Hàng chính hãng,5360000,5390000,30000,1,4,4.3,10.0,Dell,Nhật Bản,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+273186974,Lenovo ThinkPad T460 Core i5 6200 / ram 8gb / ssd 256gb / Màn hình 14 inch- Hàng Chính Hãng,4860000,4890000,30000,1,0,0.0,8.0,Lenovo,Nhật Bản,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+273187662,Laptop Lenovo Thinkpad L480 - Intel Core i5 8250U / Ram 8Gb / ssd 256gb / Màn hình 14 inch / Hàng chính hãng,4530000,4560000,30000,1,0,0.0,1.0,Lenovo,Nhật Bản,laptop-2-trong-1,2025-10-21 16:35:09,Laptop
+273239856,Laptop Lenovo ThinkPad E14 Gen 6 (21M7004WVA) | Intel Ultra 7 155H | 16GB | 512GB | Intel® Arc™ Graphics | 14inch WUXGA | No OS | Đen,24970000,25000000,30000,0,0,0.0,1.0,Lenovo,China,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+273309458,Laptop Lenovo ThinkPad X260 - Intel Core i5 6200 / Ram 8Gb / ssd 256Gb - Hàng Chính Hãng,3960000,3990000,30000,1,6,4.3,22.0,Lenovo,Nhật Bản,laptop-gaming,2025-10-21 16:35:09,Laptop
+273329318,LAPTOP LENOVO X1 CARBON GEN 4/ CORE I5-6300U / RAM 8GB / SSD 512GB / MÀN HÌNH 14 INCH / HÀNG CHÍNH HÃNG,4960000,4990000,30000,1,1,5.0,3.0,Lenovo,Mỹ,laptop-2-trong-1,2025-10-21 16:35:09,Laptop
+273373420,Điện thoại Xiaomi Redmi 13C (4GB/128GB) - Hàng chính hãng - Bảo hành 18 tháng,3090000,3090000,0,0,2,4.0,7.0,Xiaomi,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+273412211,"Điện thoại Xiaomi Redmi 13C (4+128GB) | 6.74"" 90Hz| Media Tek Helio G85| 5000mAh - Hàng chính hãng",3290000,3290000,0,0,0,0.0,9.0,Xiaomi,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+273559020,Máy tính bảng Kindle Fire HD10 2023 13th - 32Gb - Hàng chính hãng,3990000,3990000,0,0,2,5.0,9.0,Kindle,Mỹ,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+273559306,Máy tính bảng Kindle Fire Max 11 inch - 13th - 2023 - Ram 4Gb - Hàng chính hãng,5590000,5590000,0,0,0,0.0,2.0,Kindle,Mỹ,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+273634022,Laptop HP Pavilion 15-eg2083TU 7C0W9PA (Core i5-1240P | 8GB | 512GB | Intel Iris Xe | 15.6 inch FHD IPS | Win 11 | Bạc) - Hàng Chính Hãng - Bảo Hành 12 Tháng Tại HP Việt Nam,15349000,15379000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+273653444,Máy tính bảng Kindle Fire HD 10 2023 13th - Hàng nhập khẩu,2990000,2990000,0,0,1,5.0,1.0,Kindle,Mỹ,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+273668660,Điện Thoại Oppo A18 4GB/64GB - Hàng Chính Hãng,2590000,3290000,700000,21,5,4.8,753.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+273679076,Laptop Dell Latitude 3520 (Core i5-1135G7 | 8GB | 256GB | Intel Iris Xe | 15.6 inch FHD - HÀNG CHÍNH HÃNG,8620000,8650000,30000,0,0,0.0,1.0,Dell,Nhật Bản,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+273679080,Laptop Dell Latitude 3410 (L3410I5SSD) (i5 10210U 8GB RAM/256GB SSD/14.0 inch HD/Fedora/Xám) - HÀNG CHÍNH HÃNG,8420000,8450000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+273747303,Laptop Giá Rẻ Dell Vostro V3591 i3 1005G1/8GB/256GB/Intel UHD Graphics/Win 10  Hàng Chính Hãng,4870000,4900000,30000,1,1,3.0,5.0,Dell,China,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+273747677,DELL LATITUDE E3510 (I5-102104U/ RAM 16GB/ 256GB SSD NVME/ 15.6 INCH FULL HD) Hàng Chính Hãng,8260000,8290000,30000,0,1,4.0,3.0,Dell,Nhật Bản,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+273872197,Máy Tính Bảng Samsung Galaxy Tab A9 Wifi 4GB/64GB - Hàng Chính Hãng,2559000,3990000,1431000,36,6,5.0,19.0,Samsung,Trung Quốc,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+273949286,Laptop Asus Expertbook B1502 - B1502CV (Intel Core i5-1335U | RAM 8GB | 512GB SSD | Intel UHD Graphics | 15.6 inch Full HD | Win 11 bản quyền) - Hàng Chính Hãng,13155000,22900000,9745000,43,0,0.0,1.0,Asus,Trung Quốc,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+273990229,Điện Thoại Xiaomi Redmi Note 13 6GB/128GB - Hàng Chính Hãng,3629000,4890000,1261000,26,6,4.8,18.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274019962,"Điện thoại Masstel Fami 8 4G(LTE) Gọi HD call , Bàn phím chữ số lớn,Loa to - Hàng chính hãng",519000,669000,150000,22,2,4.5,14.0,Masstel,Việt Nam,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+274099409,Điện Thoại Xiaomi Redmi Note 13 8GB/128GB - Hàng Chính Hãng,3849000,5290000,1441000,27,3,4.0,8.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274101255,Máy Tính Bảng Samsung Galaxy Tab A9 Wifi 4GB/64GB - Đã Kích Hoạt Bảo Hành Điện Tử - Hàng Chính Hãng,2390000,3490000,1100000,32,145,4.8,710.0,Samsung,Trung Quốc,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+274101262,Máy Tính Bảng Samsung Galaxy Tab A9 Plus Wifi 4GB/64GB - Đã Kích Hoạt Bảo Hành Điện Tử - Hàng Chính Hãng,3590000,5990000,2400000,40,103,4.8,436.0,Samsung,Trung Quốc,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+274156763,Điện Thoại Oppo A38 4GB/128GB - Hàng Chính Hãng,3139000,4490000,1351000,30,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274191773,"Điện thoại ZTE Libero 5G IV - 4GB/128GB Dimensity 700 , Kháng nước IP67 , Sạc nhanh 22,5W - Mới nguyên seal - Hàng nhập khẩu",2269000,2990000,721000,24,4,4.8,13.0,Tecno,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274257669,Điện thoại Masstel Izi S1 4G (LTE) Gọi HD Call - Hàng chính hãng,469000,569000,100000,18,1,5.0,1.0,Masstel,Việt Nam,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+274361820,"Máy Tính Bảng Học Tập Smart Study 1, Hàng Chính Hãng, Cho Trẻ Từ 5-12 Tuổi, 64GB, Tích Hợp Chương Trình Học Tập Toàn Diện",7900000,7900000,0,0,0,0.0,0.0,,,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+274364026,Máy tính bảng học tập thông minh Nexta Edutab Pro cho trẻ 9-12 tuổi - giải pháp học tập - quản lý thời gian cho trẻ - bảo hảnh 12 tháng,3990000,3990000,0,0,0,0.0,0.0,,,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+274375122,Điện thoại Xiaomi Redmi Note 13 Pro 4G (8GB/128GB) - Hàng chính hãng,7240000,7290000,50000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274378954,Laptop MSI Katana 15 B13VFK 676VN | CPU i7-13620H | RAM 16GB DDR5 | SSD 1TB PCle | VGA RTX 4060 8GB | 15.6 FHD IPS 144Hz | Win11 - Hàng Chính Hãng - Bảo Hành 24 Tháng,28050000,28080000,30000,0,0,0.0,1.0,MSI ,China,laptop-gaming,2025-10-21 16:35:09,Laptop
+274405521,Điện Thoại Samsung Galaxy A05 4GB/64GB - Hàng Chính Hãng,2089000,2990000,901000,30,4,3.8,34.0,Samsung,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274516245,"Điện thoại Masstel Fami 60S 4G(LTE) ,Bàn phím lớn, Khung viền kim loại - Hàng chính hãng",689000,699000,10000,1,0,0.0,2.0,Masstel,Việt Nam,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+274516951,"Điện thoại Masstel izi 16 4G(LTE) , Bàn phím nổi, FM không dây - Hàng chính hãng",469000,569000,100000,18,1,5.0,12.0,Masstel,Việt Nam,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+274524033,"Điện thoại người già Masstel Fami 12S 4G(LTE) , Bàn phím chữ số to, Loa lớn , Máy viền thép chắc chắn - Hàng chính hãng",599000,650000,51000,8,0,0.0,2.0,Masstel,Việt Nam,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+274524050,"Điện thoại Masstel izi T2 4G(LTE), Màn hình 2.4 inch, Đèn pin siêu sáng, Loa to - Hàng chính hãng",499000,559000,60000,11,3,5.0,9.0,Masstel,Việt Nam,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+274544634,"Điện thoại Redmi Note 12R 5G 6/128GB Snapdragon 4 Gen 2, Rom Quốc tế có sẳn Tiếng việt - Hàng nhập khẩu",3099000,3590000,491000,14,9,5.0,28.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274560616,"Máy tính bảng học tập thông minh Nexta Edutab Kid cho bé từ 5-8 tuổi - quản lý thời gian cho trẻ - 1 đổi 1 trong vòng 30 ngày, bảo hành 12 tháng",2990000,2990000,0,0,3,5.0,6.0,Nexta,China,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+274638430,"Điện thoại Xiaomi Redmi 13R 5G 6GB/128GB Dimensity 6100+ , Màn 90Hz , Rom quốc tế có sẳn Tiếng việt - Hàng nhập khẩu",3590000,3590000,0,0,6,5.0,24.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274638659,"Điện Thoại Xiaomi Redmi Note 13 Pro 5G 8GB/128GB Snapdragon 7s Gen 2 , Màn OLED 120Hz, Rom Tiếng việt - Hàng nhập khẩu",4699000,5690000,991000,17,25,4.5,66.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274639765,"Điện thoại OPPO A2M 5G 6GB/128GB , Dimensity 6020 , Màn 90Hz , Rom tiếng việt - Hàng chính hãng",3690000,3690000,0,0,3,4.7,14.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+274734984,"Laptop Dell Vostro 5370 (i5-8250U/ Ram 8GB/ SSD 256GB/ 13.3""FHD /Sliver/ W10/FG/Key_led) - HÀNG CHÍNH HÃNG",7960000,7990000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+274775419,Lenovo ThinkPad E16 Gen 3 (21SR002JVA) | Intel Core Ultra 5 225U | 16GB | 512GB | Intel Graphics | 16.0 inch WUXGA | No OS | Black | AI PC,21920000,21950000,30000,0,0,0.0,1.0,Lenovo,China,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+274904904,Máy tính bảng Samsung Galaxy Tab A9 Wifi / LTE (4GB/64GB) - Hàng chính hãng,5440000,5490000,50000,1,1,5.0,7.0,Samsung,Việt Nam,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+275154280,"Laptop Dell Latitude 7430 CTO-14""FHD/i5-1235U/8Gb/M.2 256Gb/Win10Pro/3YPro - Hàng Chính Hãng",21020000,21050000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+275269577,Laptop ASUS Vivobook 15 X1504ZA i3 1215U/8GB/512GB/Win11 (NJ102W) - Hàng Chính Hãng ,11470000,11500000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+275286092,Laptop Dell Mobile Precision 3561 (Core i7-11850H | 16GB | 512GB | T600 4GB | 15.6 inch FHD | Win 11) Hàng Chính Hãng,19770000,19800000,30000,0,0,0.0,0.0,,,laptop-gaming,2025-10-21 16:35:09,Laptop
+275288865,"Laptop Dell Latitude 5310 | Core i5-10310U Ram 16GB PCIe 256GB 13.3"" FHD - Hàng Chính Hãng",6830000,6860000,30000,0,2,5.0,7.0,Dell,Nhật Bản,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+275381290,MÁY TÍNH XÁCH TAY (NB) ACER Aspire 7 A715-76-53PJ i5-12450H/16GD4/512SSD_PCIe/15.6FHD/FP/IPS/4C/W11SL/ĐEN(NH.QGESV.007) - HÀNG CHÍNH HÃNG,14170000,14200000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+275407523,Máy đọc sách Pocketbook Era Color- Hàng chính hãng,5990000,7500000,1510000,20,2,4.0,7.0,Pocketbook,Thụy Sỹ,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+275504716,Điện Thoại Xiaomi Redmi A3 4GB/128GB - Hàng Chính Hãng,2069000,3290000,1221000,37,2,4.5,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+275510578,Điện thoại OPPO A79 5G (8GB/256GB) - Hàng Chính Hãng,5990000,7490000,1500000,20,32,5.0,5578.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+275627388,Điện Thoại Oppo A79 5G 8GB/256GB - Hàng Chính Hãng,5930000,7490000,1560000,21,0,0.0,1.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+275695395,Điện thoại Samsung Galaxy Z Flip6 (12GB/256GB) - Hàng chính hãng,28790000,28990000,200000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+275721993,Laptop HP 15-fd0235TU 9Q970PA (Intel Core i5-1334U | 16GB | 512GB | Iris Xe Graphics | 15.6 inch FHD | Windows 11 | Natural silver) - Hàng Chính Hãng - Bảo Hành 12 Tháng,14970000,15000000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+275850110,Laptop HP EliteBook 630 G10 9J0B3PT (i5 1335U/ 8GB/ 512GB SSD/13.3 inch FHD/Win11/ Silver/ Vỏ nhôm) - Hàng Chính Hãng,20359000,20389000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+275854376,Laptop HP 15 fd1043TU 9Z2W9PA (Core 5 120U/ 16GB/ 1TB SSD/ 15.6 inch FHD/ Win11/ Bạc) - Hàng Chính Hãng,17820000,17850000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+275854386,Laptop HP 15 fd1045TU 9Z2X1PA (Core 5 120U/ 16GB/ 512GB SSD/ 15.6 inch FHD/ Win11/ Bạc) - Hàng Chính Hãng,16750000,16780000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+275913708,Điện thoại Itel it8010 4G - Hàng Chính Hãng,299000,299000,0,0,3,4.7,28.0,Itel,Trung Quốc,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+276026379,Lenovo Thinkpad T480 Core i5-8250U / RAM 16GB / SSD 256GB / Màn 14.0 inch FHD 1920x1080 - Hàng Chính Hãng,5470000,5500000,30000,1,0,0.0,1.0,Lenovo,Nhật Bản,laptop-2-trong-1,2025-10-21 16:35:09,Laptop
+276026443,Lenovo Thinkpad T480 Core i7 8550U / RAM 16GB / SSD 256GB / Màn 14.0 inch FHD 1920x1080 - Hàng Chính Hãng,8470000,8500000,30000,0,0,0.0,2.0,Lenovo,Nhật Bản,laptop-2-trong-1,2025-10-21 16:35:09,Laptop
+276046675,Điện Thoại Oppo A3 6GB/128GB - Hàng Chính Hãng,3989000,4990000,1001000,20,0,0.0,1.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276062770,Điện Thoại Xiaomi Redmi 14C 4GB/128GB - Hàng Chính Hãng,2439000,3290000,851000,26,0,0.0,2.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276099688,"Xiaomi Redmi Note 12 5G 8GB/128GB ,Màn AMOLED 120Hz , Snapdragon 4 Gen 1 ,Sạc 33W ,Rom tiếng việt - Hàng nhập khẩu",3169000,3999000,830000,21,3,3.7,10.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276104423,Điện thoại Masstel izi S1 4G - Hàng chính hãng,509000,629000,120000,19,0,0.0,2.0,Masstel,Việt Nam,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+276109904,Apple iPhone 16 Pro Max,30250000,34990000,4740000,14,137,5.0,1211.0,Apple,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276274790,Điện Thoại Samsung Galaxy A06 4GB/128GB - Hàng Chính Hãng,2575000,3490000,915000,26,4,5.0,9.0,Samsung,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276281988,Điện thoại Samsung Galaxy A06 - Hàng chính hãng,2339000,3190000,851000,27,1,1.0,3.0,Samsung,Hàn Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276314708,Điện thoại Masstel izi 16 4G - Hàng chính hãng,609000,629000,20000,3,2,5.0,3.0,Masstel,Việt Nam,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+276365829,Laptop Asus Vivobook Go 15 E1504FA-NJ454W (Ryzen 5 7520U | 16GB | 512GB | 15.6 inch FHD | AMD Radeon Graphics | Win 11 | Bạc) - HÀNG CHÍNH HÃNG,11749000,11779000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+276366221,Laptop LG Gram 2024 14Z90S-G.AH75A5 (Intel Core Ultra 7 155H |16GB | 512GB | Intel Arc | 14 inch WUXGA | Win11 | Đen) - Hàng Chính Hãng - Bảo Hành 12 Tháng,34759000,34789000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+276366329,Laptop LG Gram 2024 17Z90S-G.AH78A5 (Intel Core Ultra 7 155H | 16GB | 1TB | Intel Arc | 17 inch WQXGA | Win 11 | Đen) - Hàng Chính Hãng - Bảo Hành 12 Tháng,45269000,45299000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+276369646,Điện thoại Xiaomi Redmi 14C - Hàng chính hãng,2689000,3290000,601000,18,0,0.0,1.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276410628,"Điện thoại Realme V60 (6GB/128GB) 5G , Chíp Dimensity 6300, Rom tiếng việt - Hàng nhập khẩu",2799000,3999000,1200000,30,2,5.0,6.0,Realme,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276440892,[MỚI] Điện thoại vivo Y19s (8GB+128GB) - 1 Đổi 1 trong tháng đầu tiên - Bảo hành chính hãng 12 tháng - Hàng Chính Hãng,4790000,4790000,0,0,0,0.0,1.0,Vivo,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276448920,"Máy đọc sách Amazon Kindle Paperwhite 6 (Gen 12th), Mới nguyên Seal - Hàng chính hãng",4890000,4890000,0,0,3,5.0,20.0,Kindle,Mỹ / Trung Quốc,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+276451993,"Máy đọc sách Basic 2024 màn hình 6 inch, độ phân giải 300ppi, dung Lượng 16GB, cổng sạc type C - HÀNG CHÍNH HÃNG",3590000,3590000,0,0,0,0.0,2.0,X eXtreme,Mỹ,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+276465090,"Combo Máy đọc sách Amazon Kindle Paperwhite 6 (Gen 12th) Kèm Bao Da, Mới nguyên Seal - Hàng chính hãng",4890000,4890000,0,0,0,0.0,4.0,Kindle,Mỹ / Trung Quốc,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+276489194,Điện thoại Samsung Galaxy S24 FE - Hàng chính hãng,11549000,16990000,5441000,32,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276500230,"Máy đọc sách Kindle Colorsoft Signature Edition 32Gb, Màn hình màu 7 inch - Hàng chính hãng",8990000,8990000,0,0,0,0.0,0.0,,,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+276529979,Máy đọc sách Kindle Scribe 2024 Kèm bút Premium - Hàng chính hãng,12290000,12290000,0,0,0,0.0,1.0,Kindle,Mỹ / Trung Quốc,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+276539826,"Máy đọc sách New Kindle 2024, 16Gb Mới nguyên Seal - Hàng chính hãng",3590000,3590000,0,0,1,5.0,8.0,Kindle,Mỹ / Trung Quốc,may-doc-sach,2025-10-21 16:35:09,Máy tính bảng
+276626019,Mac Mini 2024 - Chip M4 - 16GB/ 256GB,14470000,18990000,4520000,24,2,5.0,4.0,Apple,Trung Quốc,macbook-imac,2025-10-21 16:35:09,Laptop
+276745570,Điện thoại Xiaomi Poco C75 - Hàng chính hãng,3049000,3990000,941000,24,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276925932,Điện thoại Samsung Galaxy A16 LTE - Hàng chính hãng,3589000,5090000,1501000,29,1,5.0,2.0,Samsung,Hàn Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276944868,Điện Thoại Samsung Galaxy A16 4GB/128GB - Hàng Chính Hãng,3499000,5090000,1591000,31,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276944892,Điện Thoại Samsung Galaxy A06 4GB/64GB - Hàng Chính Hãng,3190000,3190000,0,0,4,4.8,12.0,Samsung,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+276945332,Điện Thoại Xiaomi POCO C75 6GB/128GB - Hàng Chính Hãng,2639000,3390000,751000,22,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277004858,Điện thoại Xiaomi Redmi 14C (4GB/128GB) - Hàng chính hãng,2659000,3290000,631000,19,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277005407,Điện Thoại Oppo Reno13 F 8GB/256GB - Hàng Chính Hãng,7969000,8990000,1021000,11,2,4.5,2.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277007015,Điện thoại Xiaomi Redmi Note 14 6GB/128GB - Hàng Chính Hãng,3850000,4990000,1140000,23,63,5.0,6443.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277014407,"Điện thoại ZTE Blade A34 (4GB/64GB) Màn hình 6.6"", Pin 5000mAh - Hàng chính hãng",1699000,2190000,491000,22,2,5.0,6.0,Tecno,China,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277030799,"Điện thoại Realme Note 50 , Màn 90HZ (3GB/64GB) Rom quốc tế - Hàng chính hãng",1999000,2690000,691000,26,1,5.0,4.0,Realme,Nhật Bản,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277049062,Điện Thoại Xiaomi Redmi Note 14 Pro+ 5G 8GB/256GB - Hàng Chính Hãng,9099000,10990000,1891000,17,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277063012,"Điện thoại Samsung Galaxy S25, Điện thoại AI, Tìm kiếm thông minh, Video camera đêm Nightography, Chip Snapdragon - Đã kích hoạt bảo hành điện tử - Hàng Chính Hãng",16490000,22990000,6500000,28,3,5.0,15.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277174952,Điện Thoại Xiaomi Redmi Note 14 Pro 8GB/256GB - Hàng Chính Hãng,6849000,7990000,1141000,14,0,0.0,1.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277175913,Điện Thoại Xiaomi Redmi Note 14 6GB/128GB - Hàng Chính Hãng,4129000,4990000,861000,17,7,4.5,13.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277175955,Điện Thoại Xiaomi Redmi A3 3GB/64GB - Hàng Chính Hãng,1829000,2490000,661000,27,0,0.0,5.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277175972,Điện Thoại Oppo A3x 4GB/64GB - Hàng Chính Hãng,3269000,3490000,221000,6,0,0.0,1.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277274848,Dell Latitude 5410 /Core i5-10310U / RAM 8GB / SSD 256GB / 14inch FHD - Hàng Chính Hãng,6920000,6950000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277311630,Điện Thoại Xiaomi Redmi 14C 6GB/128GB - Hàng Chính Hãng,2649000,3690000,1041000,28,1,5.0,16.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277315392,"Điện thoại Xiaomi Redmi A3 (4GB/128GB) Màn hình 6.71inch,pin 5000mAh - Hàng chính hãng",2099000,2690000,591000,22,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277315433,"Điện thoại Xiaomi Redmi Note 9T 4GB/128GB 5G Dimensity 800U 5G, Có NFC , Rom tiếng việt - Hàng nhập khẩu Nhật",2369000,4690000,2321000,49,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277348490,Điện Thoại Realme C61 4GB/128GB - Hàng Chính Hãng,2593000,3590000,997000,28,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277356569,Điện thoại Realme Note 60 (4GB/128GB) - Hàng chính hãng,2669000,3390000,721000,21,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277356914,Điện Thoại Realme Note 60 4GB/128GB - Hàng Chính Hãng,2479000,3390000,911000,27,0,0.0,2.0,Realme,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277357126,Điện Thoại Realme Note 50 4GB/128GB - Hàng Chính Hãng,2429000,2890000,461000,16,0,0.0,1.0,Realme,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277360298,Điện Thoại Realme Note 60x 3GB/64GB - Hàng Chính Hãng,2069000,2690000,621000,23,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277360579,Điện Thoại Xiaomi Redmi 13 8GB/128GB - Hàng Chính Hãng,3199000,4690000,1491000,32,1,5.0,9.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277361271,Laptop HP ProBook 450 G9 6M0Y5PA (i3 1215U/ 8GB/ 512GB SSD/15.6 inch/Win11/ Silver) - Hàng Chính Hãng,12270000,12300000,30000,0,0,0.0,1.0,HP,China,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277363548,Laptop HP ProBook 440 G10 9H8U4PT (i5 1335U/ 8GB/ 512GB SSD/14 inch FHD/Win11/ Silver/ Vỏ nhôm) - HÀNG CHÍNH HÃNG,18735000,18765000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277437876,Điện Thoại Samsung Galaxy M15 5G 4GB/128GB - Hàng Chính Hãng,3469000,4390000,921000,21,0,0.0,3.0,Samsung,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277446629,Laptop Lenovo V14 Gen 4 IRU 83A000BEVN i5-13420H | 8GB | 512GB | 14' FHD | Win 11 - HÀNG CHÍNH HÃNG,13790000,13820000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277465334,Điện Thoại Samsung Galaxy A56 5G - Hàng Chính Hãng,7990000,9810000,1820000,19,7,4.7,33.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277466537,Điện Thoại Samsung Galaxy A36 5G - Hàng Chính Hãng,6790000,9120000,2330000,26,10,5.0,1036.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277466579,[Laptop I5-13420H] Laptop Asus Expertbook P1403CVA (Intel Core i5-13420H | 14 inch FHD IPS | SSD 512GB | Win bản quyền | RAM Tùy chọn) - Hàng chính hãng,17955000,18990000,1035000,5,0,0.0,0.0,,,laptop-2-trong-1,2025-10-21 16:35:09,Laptop
+277484785,Điện thoại Samsung Galaxy S25 Ultra (12GB/256GB) - Hàng chính hãng,25799000,33990000,8191000,24,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277490201,Điện thoại Samsung Galaxy A36 5G (8GB/128GB) - Hàng chính hãng,6799000,8290000,1491000,18,0,0.0,1.0,Samsung,Hàn Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277499293,Điện thoại Samsung Galaxy A56 5G (8GB/128GB) - Hàng chính hãng,8249000,9990000,1741000,17,1,2.0,1.0,Samsung,Hàn Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277512611,Điện Thoại Samsung Galaxy A56 5G 8GB/128GB - Hàng Chính Hãng,7999000,9990000,1991000,20,1,5.0,2.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277512620,Điện Thoại Samsung Galaxy A36 5G 8GB/128GB - Hàng Chính Hãng,6529000,8290000,1761000,21,3,5.0,8.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277553639,"Điện thoại Samsung Galaxy A06 5G (4/128GB), Màn Hình Cực Đại HD+ 6.7”, 5G Kết nối cực nhanh - Hàng chính hãng",2790000,3920000,1130000,29,1,5.0,5.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277607297,Điện thoại Smartphone Vivo Y19s siêu bền - RAM 4GB ROM 128GB - Màu đen và xanh - 5500mAh - Hàng chính hãng,3050000,3050000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277614251,Apple iPad Air M3 11-Inch Wi-Fi,13990000,16990000,3000000,18,5,5.0,26.0,Apple,Trung Quốc,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+277619147,Máy tính bảng iPad Gen 11 (A16) WiFi,8490000,9990000,1500000,15,43,5.0,274.0,Apple,Trung Quốc,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+277646748,Điện thoại Samsung Galaxy A06 5G (4GB/64GB) - Hàng chính hãng,2539000,3490000,951000,27,1,5.0,2.0,Samsung,Hàn Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277651890,Điện thoại Samsung Galaxy A06 5G (4GB/128GB) - Hàng chính hãng,2789000,3990000,1201000,30,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277672516,LAPTOP HP 240 G9 AG2J7AT( i5-1235U/ 16GD4 /512GSSD/ 14.0FHD/ WLax/ BT5/ 3C41WHr/W11SL/BẠC ) - HÀNG CHÍNH HÃNG,14810000,14840000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277707642,Điện thoại Samsung Galaxy A26 5G (8GB/128GB) - Hàng chính hãng,5779000,6990000,1211000,17,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277728993,[MỚI] Điện thoại vivo Y04 (6GB+128GB) - Hàng chính hãng - 1 Đổi 1 trong tháng đầu tiên - Bảo hành 12 tháng,2990000,2990000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277737595,Điện Thoại Samsung Galaxy A06 5G 4GB/128GB - Hàng Chính Hãng,4490000,4490000,0,0,6,4.8,13.0,Samsung,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277737629,Điện Thoại Xiaomi Redmi 13 6GB/128GB - Hàng Chính Hãng,2899000,4290000,1391000,32,3,5.0,2.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277738691,Điện Thoại Oppo A58 8GB/128GB - Hàng Chính Hãng,5490000,5490000,0,0,1,5.0,3.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277751466,[MỚI] Điện thoại vivo V50 Lite (12GB/256GB) - Hàng chính hãng - Bảo hành 12 tháng - 1 Đổi 1 trong tháng đầu tiên,10990000,10990000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277811118,Điện Thoại Xiaomi Redmi Note 14 5G 8GB/256GB - Hàng Chính Hãng,6099000,7290000,1191000,16,0,0.0,1.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277812880,Máy Tính Bảng Galaxy Tab S10 FE Wifi (8GB/128GB) - Hàng Chính Hãng,8890000,11990000,3100000,26,1,5.0,2.0,Samsung,Việt Nam,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+277877804,Điện thoại Xiaomi Redmi A5 (3GB/64GB) - Hàng chính hãng,2489000,2790000,301000,11,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277878418,Điện thoại Xiaomi Redmi A5 (4GB/128GB) - Hàng chính hãng,2939000,3290000,351000,11,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277908157,Dell Latitude 5510 Core i5-10310U Ram 16GB SSD 256GB 15.6 inch FHD - Hàng Chính hãng,8370000,8400000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277912715,Laptop Acer Aspire 7 A715-59G-57TU NH.QX6SV.001 (Intel Core i5-12450H | RTX 3050 | 15.6 inch FHD | 16GB | 512GB | Win 11 | Đen) - HÀNG CHÍNH HÃNG,19870000,19900000,30000,0,0,0.0,0.0,,,laptop-gaming,2025-10-21 16:35:09,Laptop
+277912717,Laptop Acer Aspire 7 A715-59G-73LB NH.QX6SV.002 (Intel Core i7-12650H | RTX 3050 6GB | 15.6 inch FHD IPS 144Hz | 16GB | 512GB | Win 11 | Đen) - HÀNG CHÍNH HÃNG,22290000,22320000,30000,0,0,0.0,1.0,Acer,China,laptop-gaming,2025-10-21 16:35:09,Laptop
+277912721,Laptop Acer Gaming Nitro Lite 16 NL16-71G-56WQ (Intel Core i5-13420H | RTX3050 | 16 inch FHD+ | 16GB | 512GB | Win 11 Home | Trắng) - HÀNG CHÍNH HÃNG,21220000,21250000,30000,0,0,0.0,0.0,,,laptop-gaming,2025-10-21 16:35:09,Laptop
+277912853,Laptop Lenovo V15 Gen 4 ( 83A100RGVN ) | Grey | Intel Core i7-13620H | Ram 8GB | 512GB SSD | Intel UHD Graphics | 15.6 Inch FHD | No Os | 2Yrs - HÀNG CHÍNH HÃNG,16649000,16679000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277930407,Điện thoại Tecno Spark GO 1 (3GB/64GB) - Hàng Chính Hãng,2190000,2190000,0,0,3,5.0,72.0,Tecno,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277936146,"Dell Latitude 5300 2in1 Core i7-8665U/Ram 8GB/SSD 256GB/13.3""FHD cảm ứng - Hàng Chính Hãng",7860000,7890000,30000,0,0,0.0,0.0,,,laptop-2-trong-1,2025-10-21 16:35:09,Laptop
+277936690,"Laptop Dell Inspiron 7472, Core i5-8250U, Ram 8GB, SSD 128GB, 14 inch Full HD, VGA 2G - Hàng Chính Hãng",8670000,8700000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277937155,Dell Inspiron 14 Plus 7440 - Intel Core i5-12450H  Ram 16GB  SSD 512GB 14 inch FullHD + 250nits  Iced Blue - Hàng Chính Hãng,14970000,15000000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277937199,Dell Latitude 5320 Core I5 1135G7 8GB 256GB SSD 13.3 inch FHD - Hàng Chính Hãng,9570000,9600000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277944334,Điện Thoại Samsung Galaxy A06 5G 4GB/64GB - Hàng Chính Hãng,2429000,3490000,1061000,30,1,5.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277944451,Điện Thoại Realme C75x 6GB/128GB - Hàng Chính Hãng,3939000,4690000,751000,16,0,0.0,1.0,Realme,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277944685,Điện Thoại Xiaomi Redmi Note 14 Pro 5G 8GB/256GB - Hàng Chính Hãng,7599000,9490000,1891000,20,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277945130,"Dell Precision 5540 Core i9 Ram 16gb, SSD NVME 512gb Card T2000 15.6inch IPS - Hàng Chính Hãng",22970000,23000000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277952237,"Dell Latitude 5400, Core i5 8365U, RAM8GB, SSD 256GB Nvme - Hàng Chính Hãng",6470000,6500000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277953961,"Laptop Dell Latitude 5500 Core i5-8350U, RAM 8GB, SSD 256GB - Hàng chính hãng",5970000,6000000,30000,1,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277961884,"Dell Latitude 7390 2in1 | Core i7, RAM 16GB, SSD 512G, 13.3inch Full HD, màn cảm ứng - Hàng chính hãng",9970000,10000000,30000,0,0,0.0,0.0,,,laptop-2-trong-1,2025-10-21 16:35:09,Laptop
+277961929,"Laptop Dell Inspiron 7472, Core i5-8250U, Ram 8GB, ổ cứng SSD 128GB, màn hình 14inch Full HD, VGA 2G - Hàng chính hãng",7970000,8000000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+277962391,Điện thoại vivo Y28 (8GB+128GB) - Hàng chính hãng - 1 Đổi 1 tháng đầu tiên - Bảo hành 12 tháng,5790000,5790000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277966171,Điện thoại Realme Note 50 (4GB/128GB) - Hàng chính hãng,2489000,2890000,401000,14,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277966957,Điện thoại Realme C61 (4GB/128GB) - Hàng chính hãng,3560000,3590000,30000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+277991695,"MacBook Air M4 (13 inch, 16GB/ 256GB) - MW0Y3SA/A - Vàng ánh sao",23960000,26990000,3030000,11,2,4.5,6.0,Apple,Trung Quốc,macbook-imac,2025-10-21 16:35:09,Laptop
+278040727,Điện thoại Realme C71 4GB/128GB - Hàng Chính Hãng,3290000,4290000,1000000,23,0,0.0,250.0,Realme,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278071899,Laptop Lenovo ThinkPad E14 Gen 7 21SX002QVA (Intel Core Ultra 5 225U | 16GB | 512GB | 14 inch WUXGA | Intel Graphics | NoOS | Đen) - HÀNG CHÍNH HÃNG,21370000,21400000,30000,0,1,5.0,1.0,Lenovo,China,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+278078311,Asus Vivobook 15 A1505V-L1688W (Intel Core i7-13620H | 16GB | 512GB | Intel UHD | 15.6 inch FHD | Win 11 | Bạc) - HÀNG CHÍNH HÃNG,18900000,18930000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+278219887,Điện thoại OPPO Reno13 F 5G 12GB/512GB - Hàng Chính Hãng,8490000,11990000,3500000,29,1,5.0,1.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278219968,Điện thoại OPPO A3 8GB/128GB - Hàng Chính Hãng,4090000,5290000,1200000,23,6,4.7,2247.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278226504,"Laptop Dell Inspiron 15 3530 N3530-i3U085W11SLU (Core i3-1305U| 8GB| 512GB SSD| 15.6"" FHD| Bạc) - Hàng Chính Hãng - Bảo Hành 12 Tháng Tại Dell Việt Nam",12370000,12400000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+278250048,Điện thoại Xiaomi Redmi A5 3GB/64GB - Hàng chính hãng,2090000,2740000,650000,24,0,0.0,11.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278252203,"Điện thoại Samsung Galaxy Z Flip7, Điện thoại AI, Màn hình ngoài vô cực 4.1"", Camera selfie 50MP, Mỏng nhất - Hàng Chính Hãng",20490000,28990000,8500000,29,2,5.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278277315,"Điện thoại Samsung Galaxy Z Fold7, Điện thoại AI, Camera 200MP, Màn hình 8.0"" tối ưu đa nhiệm, Mỏng nhẹ nhất - Hàng Chính Hãng",36590000,46990000,10400000,22,0,0.0,2.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278278564,Điện thoại Xiaomi Redmi 13x - Hàng chính hãng,2850000,4220000,1370000,32,5,4.2,280.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278294432,Ốp lưng Samsung Silicone Galaxy Z Fold7 - Hàng chính hãng,1250000,1690000,440000,26,0,0.0,4.0,Samsung,Việt Nam,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+278294720,Củ Sạc Samsung Không Kèm Cáp 25W - Hàng Chính Hãng - Đen,250000,540000,290000,54,0,0.0,10.0,Samsung,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278304091,Điện Thoại Samsung Galaxy M35 5G 8GB/256GB - Hàng Chính Hãng,8790000,8790000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278304793,"Laptop Dell Inspiron 15 3520 71069202 ( Core i7-1255U| 16GB| 512GB SSD| Intel Iris Xe Graphics| 15.6"" FHD| Đen) - Hàng Chính Hãng - Bảo Hành 12 Tháng tại Dell Việt Nam",18370000,18400000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+278306669,Điện Thoại Oppo A3 8GB/128GB - Hàng Chính Hãng,4379000,5290000,911000,17,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278334601,Điện Thoại Oppo Reno14 F 5G 8GB/256GB - Hàng Chính Hãng,8979000,10490000,1511000,14,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278445108,Điện Thoại Xiaomi Redmi 13x 6GB/128GB - Hàng Chính Hãng,3069000,4290000,1221000,28,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278447762,Điện Thoại Oppo A5i Pro 8GB/128GB - Hàng Chính Hãng,4899000,5490000,591000,11,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278447816,Điện Thoại Oppo A5i 4GB/128GB - Hàng Chính Hãng,3079000,3690000,611000,17,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278448116,Điện Thoại Oppo A5i 4GB/64GB - Hàng Chính Hãng,2839000,3290000,451000,14,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278454662,Laptop Lenovo ThinkPad E14 Gen 6 (21M7004XVA) | Ultra 7 155H | 16GB | 1TB | NPU 11 TOPS | 14 inch WUXGA | IPS | Hàng Chính Hãng,25920000,25950000,30000,0,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+278465594,"Điện thoại Vivo iQOO Z10x 5G (8GB/128GB) MediaTek Dimensity 7300, Pin 6500mAh  - Hàng nhập khẩu",3999000,4990000,991000,20,0,0.0,2.0,Vivo,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278467934,"Điện thoại Xiaomi Redmi 13 (6GB/128GB) Màn hình 6.79inch ,Chipset:MediaTek Helio G91- Hàng chính hãng",2859000,3990000,1131000,28,0,0.0,2.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278468077,"Điện thoại Xiaomi Redmi 13x 6GB/128GB Chip:MediaTek Helio G91,Màn hình 6.79inch - Hàng chính hãng",2859000,4299000,1440000,33,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278468244,Điện Thoại Samsung Galaxy A16 8GB/128GB - Hàng Chính Hãng,4479000,5390000,911000,17,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278468256,"Điện thoại OPPO A3i 5G (6GB/128GB) Chip Dimensity 6300, Màn hình 120Hz,Rom tiếng việt - Hàng nhập khẩu",3199000,3690000,491000,13,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278468344,Điện Thoại Samsung Galaxy S24 FE 5G 8GB/128GB - Hàng Chính Hãng,10849000,16990000,6141000,36,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278468370,"Điện thoại OPPO A3X 5G (6GB/128GB) Mediatek Dimensity 6300,màn hình 6.67"" 120Hz ,rom tiếng việt- Hàng nhập khẩu",3299000,3990000,691000,17,0,0.0,1.0,OPPO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278468431,"Điện thoại ZTE Nubia S 5G (4GB/128GB) Màn hình 6.7"",kháng nước IP68,pin 5000mAh - Hàng nhập khẩu Nhật",2649000,3290000,641000,19,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278468539,"Điện thoại Realme Note 60 (6GB/128GB) Màn hình 6.74"" ,Kháng nước IP68 ,Rom tiếng việt - Hàng nhập khẩu Nhật",2599000,3290000,691000,21,0,0.0,1.0,Realme,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278468588,"Điện thoại Xiaomi Redmi Note 13 5G (8GB/128GB) Màn hình Amoled 6.67"" Chip Dimensity 6080 - Hàng nhập khẩu",3569000,4900000,1331000,27,1,5.0,3.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278469242,"Điện thoại Realme C61(6GB/128GB) Màn hình 6.74inch,pin 5000mAh - Hàng chính hãng",2699000,3290000,591000,18,0,0.0,1.0,Realme,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278469276,"Điện thoại Realme C65 (6GB/128GB) Chipset:MediaTek Helio G85,Màn hình 6.67inch - Hàng chính hãng",2699000,3290000,591000,18,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278469283,"Điện thoại Xiaomi REDMI 14C 5G (6GB/128GB) ,Chip Snapdragon 4 Gen 2 ,Màn hình 6.88inch - Hàng nhập khẩu",2599000,3590000,991000,28,1,5.0,2.0,Xiaomi,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278469304,"Điện thoại Masstel Izi 56 4G (LTE) Gọi HD Call ,Pin khủng ,loa lớn - Hàng Chính Hãng",499000,699000,200000,29,0,0.0,1.0,Masstel,Trung Quốc,dien-thoai-pho-thong,2025-10-21 16:35:09,Điện thoại
+278469345,"Điện thoại ZTE Family 4GB/128GB, Màn OLED Full HD+, Dimensity 700, Kháng nước IP67, Sạc 22,5W - Mới nguyên seal - Hàng nhập khẩu nhật",2599000,2990000,391000,13,0,0.0,1.0,Tecno,Nhật Bản,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278470574,Điện thoại Realme C71 (4GB/128GB) - Hàng chính hãng,3460000,3920000,460000,12,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278490553,Điện thoại Oppo A3 (8GB/128GB) - Hàng chính hãng,4519000,5290000,771000,15,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278500816,Điện Thoại Oppo A3x 6GB/128GB - Hàng Chính Hãng,3779000,4690000,911000,19,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278500947,Điện Thoại Realme C71 4GB/128GB - Hàng Chính Hãng,3039000,3990000,951000,24,0,0.0,1.0,Realme,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278505394,"Điện Thoại Samsung Galaxy A17 LTE (8/128GB), Kính Cường Lực Gorilla Victus, Camera 50MP & IOS, AI Gemini - Hàng Chính Hãng",5190000,5190000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278505416,"Điện Thoại Samsung Galaxy A07 (4/128GB), Màn Hình Lớn 6.7'', Pin 5000mAh, IP54 Kháng Nước Kháng Bụi - Hàng Chính Hãng",2850000,3390000,540000,16,0,0.0,1.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278524463, Điện Thoại Samsung Galaxy S24 FE (8GB/128GB) - Hàng Chính Hãng,9990000,16690000,6700000,40,2,5.0,25.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278540683,Điện Thoại Samsung Galaxy A17 5G 8GB/128GB - Hàng Chính Hãng,5467000,6190000,723000,12,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278580531,Điện thoại Xiaomi Redmi 15 (6GB/128GB) - Hàng chính hãng,4760000,4790000,30000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278580633,Điện thoại Xiaomi Redmi 15 (8GB/128GB) - Hàng chính hãng,4819000,5190000,371000,7,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278588312,Laptop Asus Expertbook P1403CVA (Intel Core i3-1335U | 14 inch FHD IPS | RAM 8GB | SSD 256GB | Win bản quyền) - Hàng Chính Hãng,12365000,14900000,2535000,17,0,0.0,0.0,,,laptop-truyen-thong,2025-10-21 16:35:09,Laptop
+278591094,Điện thoại Samsung Galaxy A07 LTE (4GB/128GB) - Hàng chính hãng,2969000,3390000,421000,12,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278591193,Điện thoại Samsung Galaxy A17 5G (8GB/128GB) - Hàng chính hãng,5699000,6190000,491000,8,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278592403,Điện thoại Samsung Galaxy A07 LTE (4GB/64GB) - Hàng chính hãng,2739000,3090000,351000,11,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278592429,Điện thoại Samsung Galaxy A07 LTE (6GB/128GB) - Hàng chính hãng,3660000,3690000,30000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278600678,"Điện Thoại Samsung Galaxy S25 FE (8/128GB), Concert Camera 50MP, Pin bền bỉ, Trợ thủ AI thông minh - Hàng chính hãng",16690000,16690000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278604009,"Điện thoại Samsung Galaxy S25 Ultra (12GB/256GB), Điện thoại AI, Tìm kiếm thông minh, Video camera đêm Nightography, S Pen đa nhiệm - Đã kích hoạt bảo hành điện tử - Hàng Chính Hãng",23790000,36810000,13020000,35,0,0.0,1.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278607957,Điện thoại Oppo A5i (4GB/64GB) - Hàng chính hãng,3260000,3290000,30000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278607963,Điện thoại Oppo A5i (4GB/128GB) - Hàng chính hãng,4460000,4490000,30000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278618790,Điện thoại POCO C71 (4GB/128GB) - Hàng Chính Hãng,2150000,3150000,1000000,32,0,0.0,5.0,POCO,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278620827,Điện thoại Samsung Galaxy A06 5G - Đã kích hoạt bảo hành điện tử - Hàng chính hãng,2390000,3920000,1530000,39,19,4.5,38.0,Samsung,Việt Nam,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278628812,Apple iPhone 17 Pro,34490000,34990000,500000,1,2,5.0,34.0,Apple,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278630285,Apple iPhone Air,29990000,31990000,2000000,6,1,5.0,26.0,Apple,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278635074,Điện thoại Xiaomi Redmi 13x (6GB/128GB) - Hàng chính hãng,4260000,4290000,30000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278635094,Điện thoại Xiaomi Poco C71 (4GB/128GB) - Hàng chính hãng,2480000,3150000,670000,21,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278642597,Tai nghe Samsung có dây EO-IA500BBEGWW 3.5mm - Hàng Chính Hãng,220000,290000,70000,24,0,0.0,7.0,Samsung,Trung Quốc,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278665998,Điện Thoại Xiaomi Redmi 15 8GB/128GB - Hàng Chính Hãng,5190000,5190000,0,0,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278672823,Điện thoại Samsung Galaxy A17 LTE (8GB/128GB) - Hàng chính hãng,4819000,5190000,371000,7,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278711036,Điện Thoại Samsung Galaxy A07 - Đã Kích Hoạt Bảo Hành Điện Tử - Hàng Chính Hãng,2530000,3090000,560000,18,1,4.0,4.0,Samsung,"Anh, Việt Nam",dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278726186,Điện thoại Xiaomi 15T Pro 5G (12GB/512GB) - Hàng chính hãng,17340000,19490000,2150000,11,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278726370,Điện thoại Xiaomi 15T 5G (12GB/256GB) - Hàng chính hãng,12190000,13990000,1800000,13,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278726697,Điện thoại Xiaomi 15T 5G (12GB/512GB) - Hàng chính hãng,13390000,14990000,1600000,11,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278729165,Máy tính bảng Samsung Galaxy Tab A11 LTE (4GB/64GB) - Hàng chính hãng,5319000,5490000,171000,3,0,0.0,0.0,,,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+278730376,Máy tính bảng Samsung Galaxy Tab A11 Wifi (4GB/64GB) - Hàng chính hãng,3769000,3990000,221000,6,0,0.0,0.0,,,may-tinh-bang,2025-10-21 16:35:09,Máy tính bảng
+278757325,"[Chỉ giao Miền Bắc/Nam] Laptop LG gram Book 15 inch, IntelCore  i5, hệ điều hành Windows 11 Home , RAM 16GB SSD 512 - Hàng chính hãng",18574800,18604800,30000,0,0,0.0,0.0,,,laptop-2-trong-1,2025-10-21 16:35:09,Laptop
+278776793,Điện thoại Realme Note 70 (4GB/128GB) - Hàng chính hãng,3460000,3490000,30000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278776852,Điện thoại Realme C75x (6GB/128GB) - Hàng chính hãng,3960000,4590000,630000,14,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278777036,Điện thoại Oppo A5i (6GB/128GB) - Hàng chính hãng,4460000,4490000,30000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại
+278780989,Điện thoại Oppo A6 Pro (8GB/256GB) - Hàng chính hãng,8240000,8290000,50000,1,0,0.0,0.0,,,dien-thoai-smartphone,2025-10-21 16:35:09,Điện thoại

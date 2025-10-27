@@ -15,5 +15,6 @@
 	pip install -r requirements.txt
 	```
 2. Chạy file `app.py` hoặc mở các notebook để thực hiện các chức năng tương ứng.
-  
-  streamlit run app.py
+  	```
+	streamlit run app.py
+	```
